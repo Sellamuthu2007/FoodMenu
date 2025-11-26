@@ -1,0 +1,40 @@
+
+{            
+        "courses":[
+            {
+                "id" : 1,
+                "name" : "HTML Course" , 
+                "image" :"http://localhost:3000/assets/html.png" ,
+                "timing" : 11,
+                "price" : 199
+            },
+             {
+                "id" : 2,
+                "name" : "CSS fundamental" , 
+                "image" :"http://localhost:3000/assets/CSS.png" ,
+                "timing" : 15  ,
+                "price" : 599
+            },
+             {
+                "id" : 3,
+                "name" : "NODE.JS Mastery" , 
+                "image" : "http://localhost:3000/assets/node.png" ,
+                "timing" : 19  ,
+                "price" : 499
+            },
+             {
+                "id" : 4,
+                "name" : "FSD Crash Course" , 
+                "image" : "http://localhost:3000/assets/FSD.png",
+                "timing" : 40  ,
+                "price" : 2999
+            },
+            {
+                "id" : 5,
+                "name" : "React.JS Advanced",
+                "image" : "http://localhost:3000/assets/react.svg",
+                "timing" : 9 ,
+                "price" : 399
+            }
+        ]
+    }

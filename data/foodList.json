@@ -1,0 +1,32 @@
+{
+    "foodList" : [
+    {
+        "id" : 1,
+        "Name" : "Mutton Briyani",
+        "image" : "/assets/muttonB.png",
+        "price" : 399,
+        "combo" : "Bread Halwa,Onion Rita,Sprite(200ml),Crabfry"
+    },
+    {
+        "id" : 2,
+        "Name" : "Chicken Briyani",
+        "image" : "/assets/chickenB.png",
+        "price" : 299,
+        "combo" : "Bread Halwa,Onion Rita,Redbull(200ml),Fishfry"
+    },
+    {
+        "id" : 3,
+        "Name" : "Prawn Briyani",
+         "image" : "/assets/prawnB.png",
+        "price" : 359,
+        "combo" : "Bread Halwa,Onion Rita,Pepsi(200ml),Chicken65"
+    },
+    {
+        "id" : 4,
+        "Name" : "Bucket Mutton Briyani",
+        "image" : "/assets/bucketB.png",
+        "price" : 3999,
+        "combo" : "Bread Halwa,Onion Rita,Sprite(2Liter),Fishfry,Chicken Manjurian,ChickenTandoori,Egg(5)"
+    }
+]
+}
