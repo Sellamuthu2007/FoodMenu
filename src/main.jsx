@@ -7,11 +7,17 @@ import Login from './login.jsx'
 import NotFound from './notFound.jsx';
 import Counter from './counter.jsx';
 import Post from './posts.jsx'
+import AddList from './addList.jsx';
 
 const router = createBrowserRouter([
   {
     path : '/',
     element : <App/>,
+    errorElement : <NotFound/>
+  },
+  {
+    path : '/addList',
+    element : <AddList/>,
     errorElement : <NotFound/>
   },
   {

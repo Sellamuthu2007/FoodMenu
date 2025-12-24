@@ -21,9 +21,10 @@ function ProductList(){
     }
 
     if(!prod){
-        return <>
+        return 
+        <>
             {!error && <img src={Loading}></img>}
-             {error &&<h3>{error}</h3>}
+            {error &&<h3>{error}</h3>}
         </>
     }
 
