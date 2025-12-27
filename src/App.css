@@ -65,4 +65,14 @@
   
 }
 
- 
+.challenge{
+  padding: 20px;
+}
+.searchTop {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+}
+.searchTop div{
+  padding: 10px;
+}

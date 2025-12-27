@@ -6,7 +6,7 @@ import ProductList from './productList.jsx';
 function App() { 
   return (
     <>
-      <ProductList/>
+      <Challenge/>
     </>
   
 
